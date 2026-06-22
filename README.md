@@ -1,4 +1,4 @@
-Low Level Programming Community Is A Organization That Makes You Learn Better A Low Level Languages Like (C/C++/ASM) <br> <br>
+Low Level Programming Community Is A Organization That Makes You Learn Better A Low Level Languages Like (C/C++/ASM)
 <hr>
 <div align="center">
   <a href="https://discord.gg/WnK9mqSfGs">
