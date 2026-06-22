@@ -5,5 +5,5 @@ Low Level Programming Community Is A Organization That Makes You Learn Better A 
 </p>
 
 <p align="center">The Roadmap</p> <hr> <br>
-<hr>
+
 <a href="https://discord.gg/WnK9mqSfGs">We Have A Discord Server For Communication</a>
